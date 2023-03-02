@@ -1,5 +1,5 @@
 <h1 align="center">Imc-App-Vue.js  </h1>
-<h2 align="center">Desafio proposto pela XP Eduação. 🤝</h2>
+<h3>Desafio proposto pela XP Eduação. 🤝</h3>
 
 * <h3>A idéia do projeto erámos criar uma aplicação onde calculasse o IMC do usuário, e mostrasse na tela se o mesmo está abaixo do peso, peso normal ou acima do peso</h3>
 
